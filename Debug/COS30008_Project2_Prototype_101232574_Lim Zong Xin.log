@@ -1,0 +1,12 @@
+﻿  Building.cpp
+  Human.cpp
+  Land.cpp
+  Main.cpp
+  Player.cpp
+  Recruitment.cpp
+  Shop.cpp
+  Visitor.cpp
+  Worker.cpp
+  Generating Code...
+C:\Users\lzx93\source\repos\COS30008_Project2_Prototype_101232574_Lim Zong Xin\Main.cpp(99): warning C4715: 'commandList': not all control paths return a value
+  COS30008_Project2_Prototype_101232574_Lim Zong Xin.vcxproj -> C:\Users\lzx93\source\repos\COS30008_Project2_Prototype_101232574_Lim Zong Xin\Debug\COS30008_Project2_Prototype_101232574_Lim Zong Xin.exe
